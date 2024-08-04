@@ -27,9 +27,9 @@ class Calculator {
 
     pow(base, n) {
         let result = 1;
-        for (let i = 0; i < n; i++) {
+        for (let i = 0; i < n; i++)
             result *= base;
-        }
+
         return `pow of ${base} & ${n} equal to ${result}! In ${getDate()}`;
     }
 }

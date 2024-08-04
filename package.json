@@ -1,6 +1,6 @@
 {
   "name": "enansari-part-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this module is calculating some process",
   "main": "index.js",
   "scripts": {
