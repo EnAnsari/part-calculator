@@ -1,0 +1,24 @@
+{
+  "name": "enansari-part-calculator",
+  "version": "1.0.0",
+  "description": "this module is calculating some process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnAnsari/part-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "backpack",
+    "part-college"
+  ],
+  "author": "Rahmat Ansari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnAnsari/part-calculator/issues"
+  },
+  "homepage": "https://github.com/EnAnsari/part-calculator#readme"
+}
