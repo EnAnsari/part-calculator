@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/EnAnsari/part-calculator/issues"
   },
-  "homepage": "https://github.com/EnAnsari/part-calculator#readme"
+  "homepage": "https://github.com/EnAnsari/part-calculator#readme",
+  "dependencies": {
+    "jalali-moment": "^3.3.11"
+  }
 }
